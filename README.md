@@ -1,1 +1,1 @@
-# ESP-32_Basic-Projects
+# Stone Paper Scissor Android Application
